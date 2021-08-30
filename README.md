@@ -4,7 +4,7 @@
 
 ### Abstract
 
-Diploma Thesis includes a data analysis using different statistical methods constructed using R and Python. JavaScript was used to construct a proof of concepts projecting how Aquaculture will be able to sell their data in Data Marketplace platforms in the future (using IOTA Data Marketplace).
+Diploma Thesis for my Environmental Engineering Diploma + MEng includes a data analysis using different statistical methods constructed using R and Python. JavaScript was used to construct a proof of concepts projecting how Aquaculture will be able to sell their data in Data Marketplace platforms in the future (using IOTA Data Marketplace). IOTA is a distributed ledger technology, a third generation blockchain, with feeless transactions.
 
 ### Images
 
